@@ -1,4 +1,4 @@
-Agenda de Asistencia
+#Agenda de Asistencia
 
 Descripción
 
@@ -9,7 +9,8 @@ Marcar asistencia: permite registrar la asistencia de un estudiante.
 Identificación del profesor: reconoce cuando la persona ingresada es un profesor y evita registrarlo en la lista de asistencia.
 Ver asistencia: muestra la lista de personas que han registrado su asistencia.
 Ver ausentes: incluye una opción destinada a consultar las personas ausentes, aunque esta funcionalidad todavía no está implementada.
-Buscar personas: incluye una opción para buscar personas, aunque esta funcionalidad todavía está pendiente de implementación.
+Buscar personas: 
+incluye una opción para buscar personas, aunque esta funcionalidad todavía está pendiente de implementación.
 Salir: permite finalizar la ejecución del programa.
 Validación básica: muestra mensajes cuando se introduce un tipo de persona u opción de menú no válida.
 Cómo ejecutar
